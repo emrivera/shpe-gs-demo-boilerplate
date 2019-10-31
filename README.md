@@ -11,5 +11,5 @@
 * When prompted to add java / node to PATH (on windows, select yes)
 * Open Terminal (Mac) / cmd (Windows) and run
   * node -v 
-  * java -v
+  * java -version
  
